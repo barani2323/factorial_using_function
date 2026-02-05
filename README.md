@@ -1,6 +1,5 @@
 # factorial_using_function
 
-Assignment 3 
 # Functions_and_Modulus_in_Python
 
 
